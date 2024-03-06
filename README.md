@@ -1,13 +1,13 @@
-Object-Oriented Programming Lab: Python Classes
+## Object-Oriented Programming Lab: Python Classes
 Welcome to the Object-Oriented Programming Lab! In this lab, you will dive into the world of object-oriented programming (OOP) in Python. The lab focuses on creating and manipulating classes, defining methods, and understanding key concepts of OOP.
 
-Learning Goals
+## Learning Goals
 By completing this lab, you will:
 
-Create and instantiate classes in Python.
+## Create and instantiate classes in Python.
 Build methods that perform functions tailored to their unique objects.
 Use the property() function to create properties and validate input.
-Key Vocabulary
+## Key Vocabulary
 Before diving into the lab, let's review some key terms:
 
 Class: A bundle of data and functionality. Can be copied and modified to accomplish a wide variety of programming tasks.
